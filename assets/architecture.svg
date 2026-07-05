@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1722 660" width="1722" height="660" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="3.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1722" height="660" fill="#0d1117"/>
+<text x="861" y="38" fill="#e6edf3" font-size="26" font-weight="700" text-anchor="middle">AI Medical Receptionist — Call &amp; Booking Flow</text>
+<path id="edge0" d="M 250.0 361.0 L 368.0 361.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 250.0 361.0 L 368.0 361.0" fill="none" stroke="#94a3b8" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="368.0,361.0 360.1,365.3 360.1,356.7" fill="#94a3b8"/>
+<circle r="4.2" fill="#94a3b8" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge0"/></animateMotion></circle>
+<circle r="4.2" fill="#94a3b8" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge0"/></animateMotion></circle>
+<circle r="4.2" fill="#94a3b8" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge0"/></animateMotion></circle>
+<rect x="288.6" y="350.0" width="40.8" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="309.0" y="364.0" fill="#8b949e" font-size="12" text-anchor="middle">call</text>
+<path id="edge1" d="M 507.1 324.0 L 662.9 228.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 507.1 324.0 L 662.9 228.0" fill="none" stroke="#f97316" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="662.9,228.0 658.5,235.8 653.9,228.5" fill="#f97316"/>
+<circle r="4.2" fill="#f97316" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge1"/></animateMotion></circle>
+<circle r="4.2" fill="#f97316" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge1"/></animateMotion></circle>
+<circle r="4.2" fill="#f97316" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge1"/></animateMotion></circle>
+<rect x="561.0" y="265.0" width="48.0" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="585.0" y="279.0" fill="#8b949e" font-size="12" text-anchor="middle">audio</text>
+<path id="edge2" d="M 783.1 228.0 L 938.9 324.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 783.1 228.0 L 938.9 324.0" fill="none" stroke="#38bdf8" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="938.9,324.0 929.9,323.5 934.5,316.2" fill="#38bdf8"/>
+<circle r="4.2" fill="#38bdf8" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge2"/></animateMotion></circle>
+<circle r="4.2" fill="#38bdf8" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge2"/></animateMotion></circle>
+<circle r="4.2" fill="#38bdf8" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge2"/></animateMotion></circle>
+<rect x="840.6" y="265.0" width="40.8" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="861.0" y="279.0" fill="#8b949e" font-size="12" text-anchor="middle">text</text>
+<path id="edge3" d="M 938.9 398.0 L 783.1 494.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 938.9 398.0 L 783.1 494.0" fill="none" stroke="#34d399" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="783.1,494.0 787.5,486.2 792.1,493.5" fill="#34d399"/>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge3"/></animateMotion></circle>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge3"/></animateMotion></circle>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge3"/></animateMotion></circle>
+<rect x="837.0" y="435.0" width="48.0" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="861.0" y="449.0" fill="#8b949e" font-size="12" text-anchor="middle">reply</text>
+<path id="edge4" d="M 662.9 494.0 L 507.1 398.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 662.9 494.0 L 507.1 398.0" fill="none" stroke="#38bdf8" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="507.1,398.0 516.1,398.5 511.5,405.8" fill="#38bdf8"/>
+<circle r="4.2" fill="#38bdf8" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge4"/></animateMotion></circle>
+<circle r="4.2" fill="#38bdf8" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge4"/></animateMotion></circle>
+<circle r="4.2" fill="#38bdf8" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge4"/></animateMotion></circle>
+<rect x="561.0" y="435.0" width="48.0" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="585.0" y="449.0" fill="#8b949e" font-size="12" text-anchor="middle">voice</text>
+<path id="edge5" d="M 1059.1 324.0 L 1214.9 228.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 1059.1 324.0 L 1214.9 228.0" fill="none" stroke="#34d399" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="1214.9,228.0 1210.5,235.8 1205.9,228.5" fill="#34d399"/>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge5"/></animateMotion></circle>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge5"/></animateMotion></circle>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge5"/></animateMotion></circle>
+<rect x="1095.0" y="265.0" width="84.0" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="1137.0" y="279.0" fill="#8b949e" font-size="12" text-anchor="middle">book / log</text>
+<path id="edge6" d="M 1059.1 398.0 L 1214.9 494.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 1059.1 398.0 L 1214.9 494.0" fill="none" stroke="#34d399" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="1214.9,494.0 1205.9,493.5 1210.5,486.2" fill="#34d399"/>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge6"/></animateMotion></circle>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge6"/></animateMotion></circle>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge6"/></animateMotion></circle>
+<rect x="1105.8" y="435.0" width="62.4" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="1137.0" y="449.0" fill="#8b949e" font-size="12" text-anchor="middle">confirm</text>
+<path id="edge7" d="M 920.0 361.0 L 526.0 361.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 920.0 361.0 L 526.0 361.0" fill="none" stroke="#34d399" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="526.0,361.0 533.9,356.7 533.9,365.3" fill="#34d399"/>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge7"/></animateMotion></circle>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge7"/></animateMotion></circle>
+<circle r="4.2" fill="#34d399" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge7"/></animateMotion></circle>
+<rect x="688.2" y="350.0" width="69.6" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="723.0" y="364.0" fill="#8b949e" font-size="12" text-anchor="middle">transfer</text>
+<path id="edge8" d="M 1335.1 228.0 L 1490.9 324.0" fill="none" stroke="#30363d" stroke-width="2.4"/>
+<path d="M 1335.1 228.0 L 1490.9 324.0" fill="none" stroke="#a78bfa" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="9 15" opacity="0.9"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="0.85s" repeatCount="indefinite"/></path>
+<polygon points="1490.9,324.0 1481.9,323.5 1486.5,316.2" fill="#a78bfa"/>
+<circle r="4.2" fill="#a78bfa" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge8"/></animateMotion></circle>
+<circle r="4.2" fill="#a78bfa" filter="url(#glow)"><animateMotion dur="1.5s" begin="0.50s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge8"/></animateMotion></circle>
+<circle r="4.2" fill="#a78bfa" filter="url(#glow)"><animateMotion dur="1.5s" begin="1.00s" repeatCount="indefinite" rotate="auto"><mpath xlink:href="#edge8"/></animateMotion></circle>
+<rect x="1389.0" y="265.0" width="48.0" height="18" rx="6" fill="#0d1117" opacity="0.85"/>
+<text x="1413.0" y="279.0" fill="#8b949e" font-size="12" text-anchor="middle">reads</text>
+<rect x="92.0" y="324.0" width="158" height="74" rx="14" fill="#161b22" stroke="#94a3b8" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="106.0" y="322.0" width="130" height="4" rx="2" fill="#94a3b8"/>
+<text x="171.0" y="366.0" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Caller</text>
+<rect x="368.0" y="324.0" width="158" height="74" rx="14" fill="#161b22" stroke="#f97316" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="382.0" y="322.0" width="130" height="4" rx="2" fill="#f97316"/>
+<text x="447.0" y="357.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Twilio</text>
+<text x="447.0" y="374.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Voice / SMS</text>
+<rect x="644.0" y="154.0" width="158" height="74" rx="14" fill="#161b22" stroke="#38bdf8" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="658.0" y="152.0" width="130" height="4" rx="2" fill="#38bdf8"/>
+<text x="723.0" y="187.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Deepgram</text>
+<text x="723.0" y="204.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Speech→Text</text>
+<rect x="920.0" y="324.0" width="158" height="74" rx="14" fill="#161b22" stroke="#34d399" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="934.0" y="322.0" width="130" height="4" rx="2" fill="#34d399"/>
+<text x="999.0" y="357.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Claude</text>
+<text x="999.0" y="374.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Agent</text>
+<rect x="644.0" y="494.0" width="158" height="74" rx="14" fill="#161b22" stroke="#38bdf8" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="658.0" y="492.0" width="130" height="4" rx="2" fill="#38bdf8"/>
+<text x="723.0" y="527.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">ElevenLabs</text>
+<text x="723.0" y="544.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Text→Speech</text>
+<rect x="1196.0" y="154.0" width="158" height="74" rx="14" fill="#161b22" stroke="#a78bfa" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="1210.0" y="152.0" width="130" height="4" rx="2" fill="#a78bfa"/>
+<text x="1275.0" y="187.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">PostgreSQL</text>
+<text x="1275.0" y="204.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">(PHI enc.)</text>
+<rect x="1196.0" y="494.0" width="158" height="74" rx="14" fill="#161b22" stroke="#facc15" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="1210.0" y="492.0" width="130" height="4" rx="2" fill="#facc15"/>
+<text x="1275.0" y="527.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">SMS + Email</text>
+<text x="1275.0" y="544.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Notifier</text>
+<rect x="1472.0" y="324.0" width="158" height="74" rx="14" fill="#161b22" stroke="#f472b6" stroke-width="2"><animate attributeName="stroke-width" values="2;3.4;2" dur="2.4s" repeatCount="indefinite"/></rect>
+<rect x="1486.0" y="322.0" width="130" height="4" rx="2" fill="#f472b6"/>
+<text x="1551.0" y="357.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Clinic</text>
+<text x="1551.0" y="374.5" fill="#e6edf3" font-size="14.5" font-weight="600" text-anchor="middle">Dashboard</text>
+</svg>

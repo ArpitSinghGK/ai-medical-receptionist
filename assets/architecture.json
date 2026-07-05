@@ -1,0 +1,25 @@
+{
+  "title": "AI Medical Receptionist — Call & Booking Flow",
+  "theme": "dark",
+  "nodes": [
+    {"id": "caller",  "label": "Caller",              "col": 0, "row": 1, "color": "#94a3b8"},
+    {"id": "twilio",  "label": "Twilio\nVoice / SMS",  "col": 1, "row": 1, "color": "#f97316"},
+    {"id": "stt",     "label": "Deepgram\nSpeech→Text", "col": 2, "row": 0, "color": "#38bdf8"},
+    {"id": "agent",   "label": "Claude\nAgent",         "col": 3, "row": 1, "color": "#34d399"},
+    {"id": "tts",     "label": "ElevenLabs\nText→Speech", "col": 2, "row": 2, "color": "#38bdf8"},
+    {"id": "db",      "label": "PostgreSQL\n(PHI enc.)", "col": 4, "row": 0, "color": "#a78bfa"},
+    {"id": "notify",  "label": "SMS + Email\nNotifier",  "col": 4, "row": 2, "color": "#facc15"},
+    {"id": "dash",    "label": "Clinic\nDashboard",      "col": 5, "row": 1, "color": "#f472b6"}
+  ],
+  "edges": [
+    {"from": "caller", "to": "twilio", "label": "call"},
+    {"from": "twilio", "to": "stt",    "label": "audio"},
+    {"from": "stt",    "to": "agent",  "label": "text"},
+    {"from": "agent",  "to": "tts",    "label": "reply"},
+    {"from": "tts",    "to": "twilio", "label": "voice"},
+    {"from": "agent",  "to": "db",     "label": "book / log"},
+    {"from": "agent",  "to": "notify", "label": "confirm"},
+    {"from": "agent",  "to": "twilio", "label": "transfer"},
+    {"from": "db",     "to": "dash",   "label": "reads"}
+  ]
+}
